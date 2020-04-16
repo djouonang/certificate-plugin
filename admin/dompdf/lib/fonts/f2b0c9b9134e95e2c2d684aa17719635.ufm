@@ -1,0 +1,25 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright 1992, 1994, 1997, 2000, 2004 Adobe Systems Incorporated. All rights reserved. Myriad is either a registered trademark or a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+FontName KGQAJY+MyriadPro-Regular
+FontSubfamily Regular
+UniqueID FontForge 2.0 : KGQAJY+MyriadPro-Regular : 14-9-2019
+FullName KGQAJY+MyriadPro-Regular
+Version Version 1.0
+PostScriptName KGQAJY+MyriadPro-Regular
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -225
+FontHeightOffset 0
+Ascender 721
+Descender 0
+FontBBox 0 0 500 721
+StartCharMetrics 5
+U 32 ; WX 1 ; N space ; G 3
+U 64257 ; WX 523 ; N uniFB01 ; G 4
+EndCharMetrics
+EndFontMetrics

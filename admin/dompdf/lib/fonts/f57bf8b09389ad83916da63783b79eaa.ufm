@@ -1,0 +1,100 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright www.anke-art.de - Donation Ware!
+FontName barcode font
+FontSubfamily Regular
+UniqueID FONTLAB30:TTEXPORT
+FullName barcode font
+Version 002.000
+PostScriptName barcodefont
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -100
+FontHeightOffset 9
+Ascender 993
+Descender -22
+FontBBox 0 -22 156 993
+StartCharMetrics 78
+U 32 ; WX 126 ; N space ; G 1
+U 33 ; WX 86 ; N exclam ; G 2
+U 43 ; WX 167 ; N plus ; G 3
+U 44 ; WX 167 ; N comma ; G 4
+U 45 ; WX 167 ; N minus ; G 5
+U 46 ; WX 167 ; N period ; G 6
+U 48 ; WX 167 ; N zero ; G 7
+U 49 ; WX 167 ; N one ; G 8
+U 50 ; WX 167 ; N two ; G 9
+U 51 ; WX 167 ; N three ; G 10
+U 52 ; WX 167 ; N four ; G 11
+U 53 ; WX 167 ; N five ; G 12
+U 54 ; WX 167 ; N six ; G 13
+U 55 ; WX 167 ; N seven ; G 14
+U 56 ; WX 167 ; N eight ; G 15
+U 57 ; WX 167 ; N nine ; G 16
+U 63 ; WX 126 ; N question ; G 17
+U 65 ; WX 167 ; N A ; G 18
+U 66 ; WX 167 ; N B ; G 19
+U 67 ; WX 167 ; N C ; G 20
+U 68 ; WX 167 ; N D ; G 21
+U 69 ; WX 167 ; N E ; G 22
+U 70 ; WX 167 ; N F ; G 23
+U 71 ; WX 167 ; N G ; G 24
+U 72 ; WX 167 ; N H ; G 25
+U 73 ; WX 167 ; N I ; G 26
+U 74 ; WX 167 ; N J ; G 27
+U 75 ; WX 167 ; N K ; G 28
+U 76 ; WX 167 ; N L ; G 29
+U 77 ; WX 167 ; N M ; G 30
+U 78 ; WX 167 ; N N ; G 31
+U 79 ; WX 167 ; N O ; G 32
+U 80 ; WX 167 ; N P ; G 33
+U 81 ; WX 167 ; N Q ; G 34
+U 82 ; WX 167 ; N R ; G 35
+U 83 ; WX 167 ; N S ; G 36
+U 84 ; WX 167 ; N T ; G 37
+U 85 ; WX 167 ; N U ; G 38
+U 86 ; WX 167 ; N V ; G 39
+U 87 ; WX 167 ; N W ; G 40
+U 88 ; WX 167 ; N X ; G 41
+U 89 ; WX 167 ; N Y ; G 42
+U 90 ; WX 167 ; N Z ; G 43
+U 97 ; WX 167 ; N a ; G 44
+U 98 ; WX 167 ; N b ; G 45
+U 99 ; WX 167 ; N c ; G 46
+U 100 ; WX 167 ; N d ; G 47
+U 101 ; WX 167 ; N e ; G 48
+U 102 ; WX 167 ; N f ; G 49
+U 103 ; WX 167 ; N g ; G 50
+U 104 ; WX 167 ; N h ; G 51
+U 105 ; WX 167 ; N i ; G 52
+U 106 ; WX 167 ; N j ; G 53
+U 107 ; WX 167 ; N k ; G 54
+U 108 ; WX 167 ; N l ; G 55
+U 109 ; WX 167 ; N m ; G 56
+U 110 ; WX 167 ; N n ; G 57
+U 111 ; WX 167 ; N o ; G 58
+U 112 ; WX 167 ; N p ; G 59
+U 113 ; WX 167 ; N q ; G 60
+U 114 ; WX 167 ; N r ; G 61
+U 115 ; WX 167 ; N s ; G 62
+U 116 ; WX 167 ; N t ; G 63
+U 117 ; WX 167 ; N u ; G 64
+U 118 ; WX 167 ; N v ; G 65
+U 119 ; WX 167 ; N w ; G 66
+U 120 ; WX 167 ; N x ; G 67
+U 121 ; WX 167 ; N y ; G 68
+U 122 ; WX 167 ; N z ; G 69
+U 196 ; WX 167 ; N Adieresis ; G 70
+U 214 ; WX 167 ; N Odieresis ; G 71
+U 220 ; WX 167 ; N Udieresis ; G 72
+U 228 ; WX 167 ; N adieresis ; G 73
+U 246 ; WX 167 ; N odieresis ; G 74
+U 252 ; WX 167 ; N udieresis ; G 75
+U 57344 ; WX 0 ; N .null ; G 76
+U 57345 ; WX 500 ; N CR ; G 77
+EndCharMetrics
+EndFontMetrics

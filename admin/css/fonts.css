@@ -1,0 +1,21 @@
+
+
+/*//////////////////////////////////////////////////////////////////
+[ FONT ]
+
+@font-face{font-family:ff1;src:url(fonts/f1.woff)format("woff");}.ff1{font-family:ff1;line-height:0.938965;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff2;src:url(fonts/f2.woff)format("woff");}.ff2{font-family:ff2;line-height:0.985000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff3;src:url(fonts/f3.woff)format("woff");}.ff3{font-family:Great Vibes;line-height:1.164000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff4;src:url(fonts/f4.woff)format("woff");}.ff4{font-family:Titillium;line-height:0.778000;font-style:normal;font-weight:600;visibility:visible;}
+@font-face{font-family:ff5;src:url(fonts/f5.woff)format("woff");}.ff5{font-family:ff5;line-height:0.721000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff6;src:url(fonts/barcodefont.ttf)format("truetype");}.ff6{font-family:ff6;line-height:0.996000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff7;src:url(fonts/f7.woff)format("woff");}.ff7{font-family:ff7;line-height:0.902000;font-style:normal;font-weight:normal;visibility:visible;}
+*/
+
+@font-face{font-family:ff1;src:url(fonts/f1.ttf)format("truetype");}.ff1{font-family:ff1;line-height:0.938965;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff2;src:url(fonts/f2.ttf)format("truetype");}.ff2{font-family:ff2;line-height:0.985000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff3;src:url(fonts/f3.ttf)format("truetype");}.ff3{font-family:Great Vibes;line-height:1.164000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff4;src:url(fonts/f4.ttf)format("truetype");}.ff4{font-family:Titillium;line-height:0.778000;font-style:normal;font-weight:600;visibility:visible;}
+@font-face{font-family:ff5;src:url(fonts/f5.ttf)format("truetype");}.ff5{font-family:ff5;line-height:0.721000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff6;src:url(fonts/barcodefont.ttf)format("truetype");}.ff6{font-family:ff6;line-height:0.996000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff7;src:url(fonts/f7.ttf)format("truetype");}.ff7{font-family:ff7;line-height:0.902000;font-style:normal;font-weight:normal;visibility:visible;}

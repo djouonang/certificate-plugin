@@ -1,0 +1,41 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright (c) 2008-2011 by Accademia di Belle Arti di Urbino and others. All rights reserved.
+FontName ZFDRLU+Titillium-Semibold
+FontSubfamily Semibold
+UniqueID FontForge 2.0 : ZFDRLU+Titillium-Semibold : 14-9-2019
+FullName ZFDRLU+Titillium-Semibold
+Version Version 1.0
+PostScriptName ZFDRLU+Titillium-Semibold
+Weight Bold
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -225
+FontHeightOffset 0
+Ascender 697
+Descender -11
+FontBBox 4 -11 598 697
+StartCharMetrics 21
+U 32 ; WX 220 ; N space ; G 3
+U 48 ; WX 560 ; N zero ; G 4
+U 49 ; WX 560 ; N one ; G 5
+U 50 ; WX 560 ; N two ; G 6
+U 57 ; WX 560 ; N nine ; G 7
+U 65 ; WX 599 ; N A ; G 8
+U 68 ; WX 641 ; N D ; G 9
+U 69 ; WX 553 ; N E ; G 10
+U 71 ; WX 613 ; N G ; G 11
+U 72 ; WX 676 ; N H ; G 12
+U 73 ; WX 269 ; N I ; G 13
+U 80 ; WX 591 ; N P ; G 14
+U 82 ; WX 618 ; N R ; G 15
+U 83 ; WX 543 ; N S ; G 16
+U 84 ; WX 526 ; N T ; G 17
+U 85 ; WX 650 ; N U ; G 18
+U 88 ; WX 564 ; N X ; G 19
+U 89 ; WX 549 ; N Y ; G 20
+EndCharMetrics
+EndFontMetrics

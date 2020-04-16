@@ -1,0 +1,42 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright (c) 2008-2011 by Accademia di Belle Arti di Urbino and others. All rights reserved.
+FontName KGQAJY+Titillium-Bold
+FontSubfamily Bold
+UniqueID FontForge 2.0 : KGQAJY+Titillium-Bold : 14-9-2019
+FullName KGQAJY+Titillium-Bold
+Version Version 1.0
+PostScriptName KGQAJY+Titillium-Bold
+Weight Bold
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -225
+FontHeightOffset 0
+Ascender 692
+Descender -210
+FontBBox 0 -210 784 692
+StartCharMetrics 22
+U 32 ; WX 220 ; N space ; G 3
+U 46 ; WX 256 ; N period ; G 4
+U 65 ; WX 602 ; N A ; G 5
+U 67 ; WX 543 ; N C ; G 6
+U 68 ; WX 638 ; N D ; G 7
+U 69 ; WX 554 ; N E ; G 8
+U 73 ; WX 286 ; N I ; G 9
+U 76 ; WX 472 ; N L ; G 10
+U 77 ; WX 858 ; N M ; G 11
+U 78 ; WX 693 ; N N ; G 12
+U 79 ; WX 652 ; N O ; G 13
+U 80 ; WX 589 ; N P ; G 14
+U 82 ; WX 620 ; N R ; G 15
+U 83 ; WX 544 ; N S ; G 16
+U 84 ; WX 526 ; N T ; G 17
+U 89 ; WX 557 ; N Y ; G 18
+U 111 ; WX 532 ; N o ; G 19
+U 112 ; WX 544 ; N p ; G 20
+U 114 ; WX 372 ; N r ; G 21
+EndCharMetrics
+EndFontMetrics

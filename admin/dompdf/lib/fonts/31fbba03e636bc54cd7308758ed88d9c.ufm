@@ -1,0 +1,88 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright (c) 2008-2011 by Accademia di Belle Arti di Urbino and others. All rights reserved.
+FontName ZFDRLU+Titillium-Regular
+FontSubfamily Regular
+UniqueID FontForge 2.0 : ZFDRLU+Titillium-Regular : 14-9-2019
+FullName ZFDRLU+Titillium-Regular
+Version Version 1.0
+PostScriptName ZFDRLU+Titillium-Regular
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -225
+FontHeightOffset 0
+Ascender 750
+Descender -235
+FontBBox 10 -235 933 750
+StartCharMetrics 68
+U 32 ; WX 220 ; N space ; G 3
+U 38 ; WX 688 ; N ampersand ; G 4
+U 39 ; WX 208 ; N quotesingle ; G 5
+U 40 ; WX 264 ; N parenleft ; G 6
+U 41 ; WX 264 ; N parenright ; G 7
+U 43 ; WX 560 ; N plus ; G 8
+U 44 ; WX 223 ; N comma ; G 9
+U 45 ; WX 438 ; N hyphen ; G 10
+U 46 ; WX 216 ; N period ; G 11
+U 48 ; WX 560 ; N zero ; G 12
+U 49 ; WX 560 ; N one ; G 13
+U 50 ; WX 560 ; N two ; G 14
+U 51 ; WX 560 ; N three ; G 15
+U 52 ; WX 560 ; N four ; G 16
+U 53 ; WX 560 ; N five ; G 17
+U 54 ; WX 560 ; N six ; G 18
+U 55 ; WX 560 ; N seven ; G 19
+U 56 ; WX 560 ; N eight ; G 20
+U 57 ; WX 560 ; N nine ; G 21
+U 58 ; WX 217 ; N colon ; G 22
+U 64 ; WX 977 ; N at ; G 23
+U 65 ; WX 596 ; N A ; G 24
+U 67 ; WX 544 ; N C ; G 25
+U 68 ; WX 645 ; N D ; G 26
+U 69 ; WX 553 ; N E ; G 27
+U 70 ; WX 526 ; N F ; G 28
+U 71 ; WX 616 ; N G ; G 29
+U 72 ; WX 675 ; N H ; G 30
+U 73 ; WX 246 ; N I ; G 31
+U 76 ; WX 479 ; N L ; G 32
+U 77 ; WX 840 ; N M ; G 33
+U 78 ; WX 676 ; N N ; G 34
+U 79 ; WX 660 ; N O ; G 35
+U 80 ; WX 593 ; N P ; G 36
+U 81 ; WX 660 ; N Q ; G 37
+U 82 ; WX 616 ; N R ; G 38
+U 83 ; WX 542 ; N S ; G 39
+U 84 ; WX 526 ; N T ; G 40
+U 85 ; WX 644 ; N U ; G 41
+U 87 ; WX 886 ; N W ; G 42
+U 89 ; WX 538 ; N Y ; G 43
+U 97 ; WX 501 ; N a ; G 44
+U 98 ; WX 526 ; N b ; G 45
+U 99 ; WX 436 ; N c ; G 46
+U 100 ; WX 529 ; N d ; G 47
+U 101 ; WX 505 ; N e ; G 48
+U 102 ; WX 331 ; N f ; G 49
+U 103 ; WX 514 ; N g ; G 50
+U 104 ; WX 537 ; N h ; G 51
+U 105 ; WX 219 ; N i ; G 52
+U 107 ; WX 479 ; N k ; G 53
+U 108 ; WX 231 ; N l ; G 54
+U 109 ; WX 836 ; N m ; G 55
+U 110 ; WX 537 ; N n ; G 56
+U 111 ; WX 528 ; N o ; G 57
+U 112 ; WX 527 ; N p ; G 58
+U 114 ; WX 346 ; N r ; G 59
+U 115 ; WX 465 ; N s ; G 60
+U 116 ; WX 351 ; N t ; G 61
+U 117 ; WX 531 ; N u ; G 62
+U 118 ; WX 481 ; N v ; G 63
+U 119 ; WX 762 ; N w ; G 64
+U 120 ; WX 452 ; N x ; G 65
+U 121 ; WX 483 ; N y ; G 66
+U 122 ; WX 455 ; N z ; G 67
+EndCharMetrics
+EndFontMetrics

@@ -1,0 +1,187 @@
+<?php
+
+// Let us get form values as we will use it throughout in different ways
+
+function get_form_values(){
+
+global $wpdb;
+	
+$delegate_name = trim($_POST['delegate_name']);
+$certificate_id = trim($_POST['certificate_id']);
+$training_course = trim($_POST['training_course']);
+$company = trim($_POST['company']);
+$startdate = trim($_POST['startdate']);
+$enddate = trim($_POST['enddate']);
+$expirationdate = trim($_POST['expirationdate']);
+
+
+require_once($_SERVER['DOCUMENT_ROOT'] . '/wp-load.php'); 
+
+if($_FILES['trainee_image']['name']) {
+  if(!$_FILES['trainee_image']['error']) {
+    //validate the file
+    $new_file_name = strtolower($_FILES['trainee_image']['tmp_name']);
+    //can't be larger than 200 KB 
+    if($_FILES['trainee_image']['size'] > (200000)) {
+      //wp_die generates a visually appealing message element
+      wp_die('Your file size is to large.');
+    }
+    else {
+      //the file has passed the test
+      //These files need to be included as dependencies when on the front end.
+      require_once( ABSPATH . 'wp-admin/includes/image.php' );
+      require_once( ABSPATH . 'wp-admin/includes/file.php' );
+      require_once( ABSPATH . 'wp-admin/includes/media.php' );
+       
+      // Let WordPress handle the upload.
+      // Remember, 'upload' is the name of our file input in our form above.
+      $file_id = media_handle_upload( 'trainee_image', 0 );
+ 
+      if ( is_wp_error( $file_id ) ) {
+         wp_die('Error loading file!');
+      } 
+    }
+  }
+  else {
+    //set that to be the returned message
+    wp_die('Error: '.$_FILES['trainee_image']['error']);
+  }
+} 
+
+
+$table_name = $wpdb->prefix . 'certificat';
+    $wpdb->insert( $table_name, array(
+    'nom' => $delegate_name,
+    'numero' => $certificate_id,
+	'idformation' => $training_course,
+	'idsociete' => $company,
+	'date_formation' => $enddate,
+	'date_expiration' => $expirationdate
+) );
+
+
+
+// Get training course name and company name for further processing. Note that the course name and company name are stored in 2 different db tables.
+
+
+  $table_name1 = $wpdb->prefix . 'societe';
+  $table_name2 = $wpdb->prefix . 'formation';
+  $result1 = $wpdb->get_row("SELECT * FROM $table_name1 WHERE idsociete = '{$company}' ");
+  $result2 = $wpdb->get_row("SELECT * FROM $table_name2 WHERE idformation = '{$training_course}' ");
+  $training_course_name = $result2->titre;
+  $company_name = $result1->titre;
+
+$form_array = array(
+
+  "delegate_name" => $delegate_name,
+  "certificate_id" => $certificate_id,
+  "training_course" => $training_course,
+  "company" => $company,
+  "training_course" => $training_course,
+  "company" => $company, 
+  "startdate" => $startdate,
+  "enddate" => $enddate,
+  "training_course_name" => $training_course_name,
+  "company_name" => $company_name 
+);
+	return $form_array;
+}
+
+
+function useform_values() {
+  $a = get_form_values();        
+  echo $a[startdate];
+}
+
+useform_values();
+
+
+ add_action( 'admin_print_styles', 'certificate_custom_css' );
+
+function certificate_custom_css(){
+      global $training_course_name;
+
+	 if(($_GET["page"] == "preview_certificate") && ("T-HUET" == $training_course_name))
+    {
+		
+	wp_enqueue_style( 'certificates_stylesheet_base');
+	wp_enqueue_style( 'certificates_stylesheet_fancy'); 
+	wp_enqueue_style( 'certificates_stylesheet_tab3'); 
+
+	}
+ 
+}
+
+
+
+function preview_certificate(){
+ 
+	?>
+	 <h3 align ="center">Certificate Preview</h3>
+   <?php  echo "The delegate's details has been recorded and will be used to generate its certificate...";  ?>
+
+
+
+<script>
+try{
+theViewer.defaultViewer = new theViewer.Viewer({});
+}catch(e){}
+</script>
+
+
+
+
+ <?php
+ 
+
+  if(("T-HUET" == $training_course_name))
+    {
+  require_once("certificates/thuet/thuet.php");
+  
+    }elseif(("HUET" == $training_course_name))
+    {
+  require_once("certificates/huet/huet.php");
+	
+	}elseif(("BASIC FIRST AID" == $training_course_name))
+    {
+  require_once("certificates/bfa/bfa.php");
+	
+	}elseif(("BOSIET" == $training_course_name))
+    {
+  require_once("certificates/bosiet/bosiet.php");
+	
+	}elseif(("SEA SURVIVAL" == $training_course_name))
+    {
+  require_once("certificates/sea-survival/seasurvival.php");
+	
+	}elseif(("WORK AT HEIGHT" == $training_course_name))
+    {
+  require_once("certificates/wah/wah.php");
+	
+	}elseif(("ADVANCED FIRE FIGHTING" == $training_course_name))
+    {
+  require_once("certificates/afa/afa.php");
+	
+	}elseif(("ADVANCED FIRST AID" == $training_course_name))
+    {
+  require_once("certificates/afa/afa.php");
+	
+	}elseif(("BASIC FIRE FIGHTING" == $training_course_name))
+    {
+  require_once("certificates/bfa/bfa.php");
+	
+	}elseif(("BOSSS" == $training_course_name))
+    {
+  require_once("certificates/bosss/bosss.php");
+	
+	}elseif(("CONFINED SPACE ENTRY" == $training_course_name))
+    {
+  require_once("certificates/cse/cse.php");
+	
+	}
+	
+	
+  ?>
+
+<?php
+}

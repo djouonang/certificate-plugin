@@ -1,0 +1,184 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+FontName ZFDRLU+GreatVibes-Regular
+FontSubfamily Book
+UniqueID ZFDRLU+GreatVibes-Regular
+FullName ZFDRLU+GreatVibes-Regular
+Version Version 1.0 
+PostScriptName ZFDRLU+GreatVibes-Regular
+Trademark Grerat Vibes is a trademark of Robert E. Leuschke.
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 14
+UnderlinePosition -127
+FontHeightOffset 0
+Ascender 804
+Descender -371
+FontBBox -106 -371 1270 804
+StartCharMetrics 452
+U 32 ; WX 259 ; N space ; G 3
+U 69 ; WX 815 ; N E ; G 4
+U 74 ; WX 966 ; N J ; G 5
+U 98 ; WX 345 ; N b ; G 6
+U 99 ; WX 260 ; N c ; G 7
+U 103 ; WX 392 ; N g ; G 8
+U 105 ; WX 174 ; N i ; G 9
+U 110 ; WX 335 ; N n ; G 10
+U 111 ; WX 335 ; N o ; G 11
+U 114 ; WX 260 ; N r ; G 12
+U 115 ; WX 256 ; N s ; G 13
+U 116 ; WX 200 ; N t ; G 14
+U 117 ; WX 357 ; N u ; G 15
+U 325 ; WX 1039 ; N uni0145 ; G 16
+U 326 ; WX 335 ; N uni0146 ; G 17
+U 327 ; WX 1039 ; N Ncaron ; G 18
+U 328 ; WX 335 ; N ncaron ; G 19
+U 330 ; WX 1039 ; N Eng ; G 20
+U 331 ; WX 335 ; N eng ; G 21
+U 332 ; WX 771 ; N Omacron ; G 22
+U 333 ; WX 335 ; N omacron ; G 23
+U 336 ; WX 771 ; N Ohungarumlaut ; G 24
+U 337 ; WX 335 ; N ohungarumlaut ; G 25
+U 338 ; WX 1493 ; N OE ; G 26
+U 339 ; WX 452 ; N oe ; G 27
+U 340 ; WX 1024 ; N Racute ; G 28
+U 341 ; WX 260 ; N racute ; G 29
+U 342 ; WX 1024 ; N uni0156 ; G 30
+U 343 ; WX 260 ; N uni0157 ; G 31
+U 344 ; WX 1024 ; N Rcaron ; G 32
+U 345 ; WX 260 ; N rcaron ; G 33
+U 346 ; WX 901 ; N Sacute ; G 34
+U 347 ; WX 256 ; N sacute ; G 35
+U 348 ; WX 901 ; N Scircumflex ; G 36
+U 349 ; WX 256 ; N scircumflex ; G 37
+U 350 ; WX 901 ; N Scedilla ; G 38
+U 351 ; WX 256 ; N scedilla ; G 39
+U 352 ; WX 901 ; N Scaron ; G 40
+U 353 ; WX 256 ; N scaron ; G 41
+U 354 ; WX 1088 ; N uni0162 ; G 42
+U 355 ; WX 200 ; N uni0163 ; G 43
+U 356 ; WX 1088 ; N Tcaron ; G 44
+U 357 ; WX 441 ; N tcaron ; G 45
+U 358 ; WX 1088 ; N Tbar ; G 46
+U 359 ; WX 200 ; N tbar ; G 47
+U 360 ; WX 942 ; N Utilde ; G 48
+U 361 ; WX 357 ; N utilde ; G 49
+U 362 ; WX 942 ; N Umacron ; G 50
+U 363 ; WX 357 ; N umacron ; G 51
+U 364 ; WX 942 ; N Ubreve ; G 52
+U 365 ; WX 357 ; N ubreve ; G 53
+U 366 ; WX 942 ; N Uring ; G 54
+U 367 ; WX 357 ; N uring ; G 55
+U 368 ; WX 942 ; N Uhungarumlaut ; G 56
+U 369 ; WX 357 ; N uhungarumlaut ; G 57
+U 370 ; WX 942 ; N Uogonek ; G 58
+U 371 ; WX 357 ; N uogonek ; G 59
+U 372 ; WX 1344 ; N Wcircumflex ; G 60
+U 373 ; WX 476 ; N wcircumflex ; G 61
+U 374 ; WX 1006 ; N Ycircumflex ; G 62
+U 375 ; WX 399 ; N ycircumflex ; G 63
+U 376 ; WX 959 ; N Ydieresis ; G 64
+U 377 ; WX 677 ; N Zacute ; G 65
+U 378 ; WX 341 ; N zacute ; G 66
+U 379 ; WX 677 ; N Zdotaccent ; G 67
+U 380 ; WX 341 ; N zdotaccent ; G 68
+U 381 ; WX 677 ; N Zcaron ; G 69
+U 382 ; WX 341 ; N zcaron ; G 70
+U 402 ; WX 500 ; N florin ; G 71
+U 536 ; WX 901 ; N uni0218 ; G 72
+U 537 ; WX 256 ; N uni0219 ; G 73
+U 567 ; WX 177 ; N uni0237 ; G 74
+U 700 ; WX 193 ; N uni02BC ; G 75
+U 710 ; WX 485 ; N circumflex ; G 76
+U 711 ; WX 367 ; N caron ; G 77
+U 728 ; WX 327 ; N breve ; G 78
+U 729 ; WX 272 ; N dotaccent ; G 79
+U 730 ; WX 312 ; N ring ; G 80
+U 731 ; WX 333 ; N ogonek ; G 81
+U 732 ; WX 485 ; N tilde ; G 82
+U 733 ; WX 267 ; N hungarumlaut ; G 83
+U 960 ; WX 422 ; N pi ; G 84
+U 7682 ; WX 1069 ; N uni1E02 ; G 85
+U 7683 ; WX 313 ; N uni1E03 ; G 86
+U 7690 ; WX 1027 ; N uni1E0A ; G 87
+U 7691 ; WX 367 ; N uni1E0B ; G 88
+U 7710 ; WX 1044 ; N uni1E1E ; G 89
+U 7711 ; WX 198 ; N uni1E1F ; G 90
+U 7744 ; WX 1355 ; N uni1E40 ; G 91
+U 7745 ; WX 507 ; N uni1E41 ; G 92
+U 7766 ; WX 990 ; N uni1E56 ; G 93
+U 7767 ; WX 336 ; N uni1E57 ; G 94
+U 7776 ; WX 901 ; N uni1E60 ; G 95
+U 7777 ; WX 256 ; N uni1E61 ; G 96
+U 7786 ; WX 1088 ; N uni1E6A ; G 97
+U 7787 ; WX 200 ; N uni1E6B ; G 98
+U 7808 ; WX 1344 ; N Wgrave ; G 99
+U 7809 ; WX 476 ; N wgrave ; G 100
+U 7810 ; WX 1344 ; N Wacute ; G 101
+U 7811 ; WX 476 ; N wacute ; G 102
+U 7812 ; WX 1344 ; N Wdieresis ; G 103
+U 7813 ; WX 476 ; N wdieresis ; G 104
+U 7922 ; WX 1006 ; N Ygrave ; G 105
+U 7923 ; WX 399 ; N ygrave ; G 106
+U 8211 ; WX 534 ; N endash ; G 107
+U 8212 ; WX 819 ; N emdash ; G 108
+U 8213 ; WX 819 ; N uni2015 ; G 109
+U 8216 ; WX 185 ; N quoteleft ; G 110
+U 8217 ; WX 158 ; N quoteright ; G 111
+U 8218 ; WX 154 ; N quotesinglbase ; G 112
+U 8220 ; WX 304 ; N quotedblleft ; G 113
+U 8221 ; WX 393 ; N quotedblright ; G 114
+U 8222 ; WX 245 ; N quotedblbase ; G 115
+U 8224 ; WX 441 ; N dagger ; G 116
+U 8225 ; WX 441 ; N daggerdbl ; G 117
+U 8226 ; WX 766 ; N bullet ; G 118
+U 8230 ; WX 537 ; N ellipsis ; G 119
+U 8240 ; WX 688 ; N perthousand ; G 120
+U 8249 ; WX 500 ; N guilsinglleft ; G 121
+U 8250 ; WX 500 ; N guilsinglright ; G 122
+U 8260 ; WX 548 ; N fraction ; G 123
+U 8304 ; WX 326 ; N uni2070 ; G 124
+U 8308 ; WX 302 ; N uni2074 ; G 125
+U 8309 ; WX 289 ; N uni2075 ; G 126
+U 8310 ; WX 274 ; N uni2076 ; G 127
+U 8311 ; WX 317 ; N uni2077 ; G 128
+U 8312 ; WX 273 ; N uni2078 ; G 129
+U 8313 ; WX 283 ; N uni2079 ; G 130
+U 8320 ; WX 326 ; N uni2080 ; G 131
+U 8321 ; WX 246 ; N uni2081 ; G 132
+U 8322 ; WX 317 ; N uni2082 ; G 133
+U 8323 ; WX 298 ; N uni2083 ; G 134
+U 8324 ; WX 302 ; N uni2084 ; G 135
+U 8325 ; WX 289 ; N uni2085 ; G 136
+U 8326 ; WX 274 ; N uni2086 ; G 137
+U 8327 ; WX 317 ; N uni2087 ; G 138
+U 8328 ; WX 273 ; N uni2088 ; G 139
+U 8329 ; WX 283 ; N uni2089 ; G 140
+U 8364 ; WX 661 ; N Euro ; G 141
+U 8482 ; WX 736 ; N trademark ; G 142
+U 8486 ; WX 445 ; N Omega ; G 143
+U 8532 ; WX 675 ; N twothirds ; G 144
+U 8540 ; WX 683 ; N threeeighths ; G 145
+U 8706 ; WX 368 ; N partialdiff ; G 146
+U 8710 ; WX 580 ; N increment ; G 147
+U 8719 ; WX 612 ; N product ; G 148
+U 8721 ; WX 473 ; N summation ; G 149
+U 8722 ; WX 373 ; N minus ; G 150
+U 8730 ; WX 622 ; N radical ; G 151
+U 8734 ; WX 693 ; N infinity ; G 152
+U 8747 ; WX 500 ; N integral ; G 153
+U 8776 ; WX 374 ; N approxequal ; G 154
+U 8800 ; WX 458 ; N notequal ; G 155
+U 8804 ; WX 251 ; N lessequal ; G 156
+U 8805 ; WX 251 ; N greaterequal ; G 157
+U 9674 ; WX 575 ; N lozenge ; G 158
+U 63743 ; WX 561 ; N uniF8FF ; G 159
+U 64257 ; WX 372 ; N uniFB01 ; G 160
+U 64258 ; WX 410 ; N uniFB02 ; G 161
+U 64259 ; WX 570 ; N uniFB03 ; G 162
+U 64260 ; WX 608 ; N uniFB04 ; G 163
+EndCharMetrics
+EndFontMetrics

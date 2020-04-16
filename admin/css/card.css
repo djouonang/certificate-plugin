@@ -1,0 +1,175 @@
+
+@font-face {
+  font-family: Montserrat-Regular;
+  src: url('../fonts/montserrat/Montserrat-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: Montserrat-Medium;
+  src: url('../fonts/montserrat/Montserrat-Medium.ttf'); 
+}
+
+.header-image1{
+			background: url("images/bosiet.png"); 
+			background-position: center;
+			background-size: cover; 
+			width: 800px;
+			height: 491px;
+			
+		}
+		
+		.header-image2{
+			background: url("images/ss.png"); 
+			background-position: center;
+			background-size: cover; 
+			width: 800px;
+			height: 491px;
+			
+		}
+		
+		.header-image3{
+			background: url("images/mob.png"); 
+			background-position: center;
+			background-size: cover; 
+			width: 800px;
+			height: 491px;
+			
+		}
+		
+		.header-image4{
+			background: url("images/bosss.png"); 
+			background-position: center;
+			background-size: cover; 
+			width: 800px;
+			height: 491px;
+			
+		}
+		
+		.header-image5{
+			background: url("images/huet.png"); 
+			background-position: center;
+			background-size: cover; 
+			width: 800px;
+			height: 491px;
+			
+		}
+		
+		.header-image6{
+			background: url("images/imdg.png"); 
+			background-position: center;
+			background-size: cover; 
+			width: 800px;
+			height: 491px;
+			
+		}
+		
+		.header-image7{
+			background: url("images/ddc.png"); 
+			background-position: center;
+			background-size: cover; 
+			width: 800px;
+			height: 491px;
+			
+		}
+		
+		
+@font-face{
+font-family:ff8;
+src:url(fonts/Bauhaus93Regular.ttf)format("truetype");
+}
+
+@font-face{
+font-family:Myriad Pro Regular;
+src:url(fonts/myriadpro.ttf)format("truetype");
+}
+
+.fontclass
+{
+font-family:ff8;
+line-height:0.996000;
+font-style:normal;
+font-weight:normal;
+visibility:visible;
+color: #fff;
+ text-shadow:  -2px 0 2px black, 0 2px 2px black, 2px 0 2px black, 0 -2px 2px black;
+}
+
+.fontclass2
+{
+font-family:ff8;
+line-height:0.996000;
+font-style:normal;
+font-weight:normal;
+visibility:visible;
+ text-shadow: 2px 2px grey, -1px -1px white;
+}
+
+.fontclass3
+{
+font-family:Myriad Pro Regular;
+line-height:0.996000;
+font-style:normal;
+font-weight:normal;
+visibility:visible;
+color: #fff;
+ text-shadow:  -2px 0 2px black, 0 2px 2px black, 2px 0 2px black, 0 -2px 2px black;
+}
+
+.fontsize1{
+font-size: 36px;
+}
+
+.fontsize2{
+font-size: 22px;
+}
+
+.position1
+{
+padding: 142px 52px 0px 280px;
+position: absolute;
+
+}
+
+.position2
+{
+padding: 206px 0px 0 279px;
+position: absolute;
+
+}
+
+.position3
+{
+padding: 253px 29px 0 280px;
+position: absolute;
+
+}
+
+.cardpic
+{
+	
+z-index: 700;
+position: absolute;
+left: 200px;
+top: 1356px;
+		
+}
+
+.cardbarcode
+{
+z-index: 700;
+position: absolute;
+left: 873px;
+top: 1531px;
+}
+
+.press_button {
+color: #fff !important;
+text-transform: uppercase;
+text-decoration: none;
+background: #ed3330;
+padding: 20px;
+border-radius: 5px;
+display: inline-block;
+border: none;
+transition: all 0.4s ease 0s;
+}
